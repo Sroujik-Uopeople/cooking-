@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>International Recipes</title>
+</head>
+<body>
+  <header>
+    <h1>International Recipes</h1>
+    <nav>
+      <ul>
+        <li><a href="#italian">Italian</a></li>
+        <li><a href="#mexican">Mexican</a></li>
+        <li><a href="#indian">Indian</a></li>
+        <!-- Add more country links as necessary -->
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <section id="italian">
+      <h2>Italian Recipes</h2>
+      <ul>
+        <!-- Place Italian recipe links here -->
+      </ul>
+    </section>
+
+    <section id="mexican">
+      <h2>Mexican Recipes</h2>
+      <ul>
+        <!-- Place Mexican recipe links here -->
+      </ul>
+    </section>
+
+    <section id="indian">
+      <h2>Indian Recipes</h2>
+      <ul>
+        <!-- Place Indian recipe links here -->
+      </ul>
+    </section>
+  </main>
+</body>
+</html>
+
+![Recipe Image](../images/example.jpg)
+
+**Ingredients:**
+- Ingredient 1
+- Ingredient 2
+- Ingredient 3
+
+**Instructions:**
+1. Step 1
+2. Step 2
+3. Step 3
+
+Additional information or notes about the recipe.
